@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Kenya Dating App',
-  description: 'Location-based matchmaking for Kenya',
+  title: 'Karibu Kenya Match | Location-Based Dating',
+  description: 'Connect with people near you in Kenya. GPS matching by county, interests, and more.',
 };
 
 export default function RootLayout({
@@ -13,7 +13,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body className="antialiased">{children}</body>
     </html>
   );
 }
