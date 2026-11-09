@@ -2,7 +2,7 @@
 
 A modern, location-based online dating platform for people in Kenya to connect, match, and chat.
 
-**Live site:** https://kenya-dating-app.netlify.app
+**Live site:** https://karibu-kenya-match.netlify.app
 
 **GitHub:** https://github.com/gachiesamuel14/kenya-dating-app
 
@@ -49,7 +49,7 @@ npm run dev
 ```
 
 ### 4. Deploy
-The repo is connected to Netlify at kenya-dating-app.netlify.app. Pushing to main triggers deploys. Ensure env vars are set in Netlify.
+The repo is connected to Netlify at https://karibu-kenya-match.netlify.app. Pushing to main triggers deploys. Ensure env vars are set in Netlify.
 
 ## Roadmap
 - Profile creation & photo uploads
